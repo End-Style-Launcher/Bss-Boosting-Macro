@@ -1,4 +1,4 @@
-### **🐝 Bee Swarm Booster – Macro Tool** 
+### **🐝 Bee Swarm Boosting – Macro Tool** 
 
 Bee Swarm Booster is a modern and easy-to-use automation macro tool for Roblox Bee Swarm Simulator, designed to help players use boosts, items, and abilities more efficiently.
 
